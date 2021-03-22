@@ -1,3 +1,0 @@
-./test_6.tar.gz
-./test_7.tar.gz
-./test_8.tar.gz
